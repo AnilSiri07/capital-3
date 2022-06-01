@@ -1,7 +1,0 @@
- class hello #from love dev1 anil
-{
-      public static void miain( ) #from love dev1 anil
-      {
-      system.out.println("hello mister anil kumar")
-
-}         
