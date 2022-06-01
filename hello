@@ -1,7 +1,7 @@
-class hello #from dev1
+ class hello #from love dev1 anil
 {
-      public static void miain( ) #from dev1
+      public static void miain( ) #from love dev1 anil
       {
-      system.out.println("hello mister anil")
+      system.out.println("hello mister anil kumar")
 
 }         
